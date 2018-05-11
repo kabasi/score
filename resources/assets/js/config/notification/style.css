@@ -1,0 +1,7 @@
+.jq-toast-wrap {
+    width: 350px;
+}
+
+.jq-toast-loaded {
+    display: none;
+}
